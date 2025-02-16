@@ -3,13 +3,11 @@
 I'm a passionate developer with expertise in a wide range of technologies. I enjoy building scalable applications and exploring the latest advancements in AI and machine learning.
 
 - 🔭 I’m currently working on enhancing my skills in AWS AI/ML services.
-- 🌱 I’m learning full-stack development, focusing on Python frameworks and modern front-end libraries.
+- 🌱 I’m learning full-stack development, focusing on Python frameworks and modern front-end libraries.     
 - 👯 I’m looking to collaborate on open-source projects related to AI and cloud computing.
 - 💬 Ask me about Python, AWS, and web development.
 - 📫 How to reach me: [vikasvermacertain@gmail.com](mailto:vikasvermacertain@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring nature trails.
-
-
 
 
 ## 🛠️ My Favorite Tools
