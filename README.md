@@ -71,7 +71,6 @@ I'm a passionate developer with expertise in a wide range of technologies. I enj
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasvermacertain&layout=compact&theme=radical)
 
- ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=vikasvermacertain&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikasvermacertain&theme=radical)](https://git.io/streak-stats)
 
 </details>
